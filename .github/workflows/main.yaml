@@ -23,5 +23,6 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         context: .
+        file: .github/workflows
         push: true
         tags: dipak2515/ubuntu562023:latest
