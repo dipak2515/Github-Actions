@@ -25,4 +25,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: dipak2515/ubuntu562023:latest
+          tags: dipak2515/ubuntu562023:v1
